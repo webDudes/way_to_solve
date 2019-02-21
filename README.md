@@ -15,4 +15,6 @@ In simple words ***Problem solving is a process of finding solution of given pro
 When given a problem, there are two mistakes a beginner programmer make, either he straightly jumps into the code without planning how problem should be solved or he get stuck on the blank screen which panic him. Rather When given a problem he should follow the following steps:
 
 ### Understand the problem.
-When someone is given a problem. It can be tempting to straightly dive into the code, but it is better to take a step back and make sure you understand the task as someone rightly said **"Think twice, code once"**
+When someone is given a problem. It can be tempting to straightly dive into the code, but it is better to take a step back and make sure you understand the problem as someone rightly said **"Think twice, code once"**. If at first glance you dont understand the problem, try to restate the problem in your own words. For example you are asked to write a function which implements addition. we can restate this problem into simpler words like *"Write a problem which takes two numbers and return their sum"*.
+
+### Divide and conquer.
