@@ -1,0 +1,1 @@
+**Remember that we’re all different.** So be patient and respectful.
